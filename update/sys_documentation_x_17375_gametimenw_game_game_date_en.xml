@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="game_date" label="Game Date" language="en" table="x_17375_gametimenw_game">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>game_date</element>
+            <help/>
+            <hint/>
+            <label>Game Date</label>
+            <language>en</language>
+            <name>x_17375_gametimenw_game</name>
+            <plural>Game Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-17 16:57:18</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>4e3f923e0f5c7200673e06bce1050eda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Game Date</sys_name>
+            <sys_package display_value="GameTimeNw" source="x_17375_gametimenw">0ebb9a7a0f5c7200673e06bce1050ea3</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GameTimeNw">0ebb9a7a0f5c7200673e06bce1050ea3</sys_scope>
+            <sys_update_name>sys_documentation_x_17375_gametimenw_game_game_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-17 16:57:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
